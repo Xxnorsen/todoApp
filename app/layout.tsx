@@ -1,7 +1,16 @@
+import { Stack } from 'expo-router';
+import { StyleSheet } from 'react-native';
+
 export default function RootLayout() {
-  return <RootLayoutNav />;
+  return (
+    <Stack screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="index" />
+    </Stack>
+  );
 }
 
-function RootLayoutNav() {
-  return <RootLayoutNav />;
-}
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+  },
+});

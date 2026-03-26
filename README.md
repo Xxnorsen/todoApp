@@ -28,8 +28,8 @@ npx expo start
 ## Project Structure
 
 ```
-/app
-/store
+/assets
+/src
 /components
 ---
 

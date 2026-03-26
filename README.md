@@ -28,6 +28,7 @@ npx expo start
 ## Project Structure
 
 ```
+/app
 /assets
 /src
 /components

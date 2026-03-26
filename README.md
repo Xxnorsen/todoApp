@@ -28,12 +28,6 @@ npx expo start
 /app
 /store
 /components
-```
-
-## Goal
-
-Practice building a real mobile app with clean UI and basic task management.
-
 ---
 
 Built by Norsen

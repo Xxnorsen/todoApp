@@ -1,4 +1,5 @@
-﻿import React, { useState } from "react";
+﻿/* eslint-disable react/no-unescaped-entities */
+import React, { useState } from "react";
 import {
   Image,
   SafeAreaView,
@@ -94,7 +95,7 @@ const LoginScreen: React.FC<LoginScreenProps> = ({ onLogin }) => {
         </View>
 
         <View style={styles.footer}>
-          <Text style={styles.footerText}>Don't have an account? </Text>
+          <Text style={styles.footerText}> Don't have an account? </Text>
           <TouchableOpacity activeOpacity={0.8}>
             <Text style={styles.signUpText}>Sign Up</Text>
           </TouchableOpacity>

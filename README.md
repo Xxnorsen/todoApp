@@ -8,7 +8,7 @@ A simple and clean To-Do List mobile app built with React Native and Expo.
 
 * Add, edit, and delete tasks
 * Mark tasks as complete
-* Simple login screen (UI only)
+* Simple login screen
 * Clean and minimal design
 
 ## Tech Stack

@@ -21,6 +21,7 @@ A simple and clean To-Do List mobile app built with React Native and Expo.
 
 ```bash
 npm install
+npm start
 npx expo start
 ```
 

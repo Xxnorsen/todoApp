@@ -1,28 +1,28 @@
-# Todo List App 📱
+# Todo List App
 
 A simple and clean To-Do List mobile app built with React Native and Expo.
 
-## ✨ Features
+## Features
 
 * Add, edit, and delete tasks
 * Mark tasks as complete
 * Simple login screen (UI only)
 * Clean and minimal design
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * React Native (Expo)
 * JavaScript / TypeScript
 * Redux Toolkit (for state management)
 
-## 🚀 Run the App
+## Run the App
 
 ```bash
 npm install
 npx expo start
 ```
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 /app
@@ -30,10 +30,10 @@ npx expo start
 /components
 ```
 
-## 🎯 Goal
+## Goal
 
 Practice building a real mobile app with clean UI and basic task management.
 
 ---
 
-Built with ❤️ by Norsen
+Built by Norsen
